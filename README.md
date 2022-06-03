@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohitr15072001
+- 👋 Hi, I’m @Rohit
 - 👀 I’m interested in C,C++, Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate projects. 
